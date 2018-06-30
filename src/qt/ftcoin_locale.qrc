@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/ftcoin_bg.qm</file>
+        <file alias="de">locale/ftcoin_de.qm</file>
+        <file alias="en">locale/ftcoin_en.qm</file>
+        <file alias="es">locale/ftcoin_es.qm</file>
+        <file alias="fi">locale/ftcoin_fi.qm</file>
+        <file alias="fr">locale/ftcoin_fr.qm</file>
+        <file alias="it">locale/ftcoin_it.qm</file>
+        <file alias="ja">locale/ftcoin_ja.qm</file>
+        <file alias="pl">locale/ftcoin_pl.qm</file>
+        <file alias="pt">locale/ftcoin_pt.qm</file>
+        <file alias="ru">locale/ftcoin_ru.qm</file>
+        <file alias="sk">locale/ftcoin_sk.qm</file>
+        <file alias="sv">locale/ftcoin_sv.qm</file>
+        <file alias="vi">locale/ftcoin_vi.qm</file>
+        <file alias="zh_CN">locale/ftcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ftcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

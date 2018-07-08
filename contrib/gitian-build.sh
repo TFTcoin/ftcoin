@@ -193,8 +193,8 @@ done
 if [[ $lxc = true ]]
 then
     export USE_LXC=1
-    export LXC_BRIDGE=lxcbr0
-    sudo ifconfig lxcbr0 up 10.0.3.2
+    export LXC_BRIDGE=br0
+    sudo ifconfig br0 up 10.0.3.2
 elif [[ $docker = true ]]
 then
     export USE_DOCKER=1
